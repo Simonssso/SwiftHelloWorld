@@ -2,4 +2,4 @@
 
 import Foundation
 
-print("HelloWorld")
+print("SwiftHelloWorld")
